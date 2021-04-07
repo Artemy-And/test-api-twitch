@@ -1,6 +1,6 @@
 # test-api-twitch
-Download dependencies
+Download dependencies : 
 yarn install
-Start dev server
+Start dev server : 
 yarn run dev
 
